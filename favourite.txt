@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 mobile
 laptop
 tea
 headphones
+=======
+star trek
+the dark knight
+the man of steel
+lord of the rings
+>>>>>>> movies
